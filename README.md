@@ -93,6 +93,7 @@ Body (JSON):
 Eliminar una persona por ID
 
 DELETE /personas/{idPersona}
+
 ''''''''''''''''''''''''''''''''''''
 
 
