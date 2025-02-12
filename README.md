@@ -13,14 +13,18 @@ Express.js
 MongoDB
 
 Mongoose
+
 '''''''''''''''''''''''''''''''''
+
 Instalación y ejecución
 
 Clonar este repositorio:
 
 git clone <URL_DEL_REPOSITORIO>
 cd nodejs~personas
+
 ''''''''''''''''''''''''''''''''''
+
 Instalar dependencias:
 
 npm install
@@ -30,11 +34,16 @@ Configurar variables de entorno:
 Crear un archivo .env
 
 Agregar la variable MONGO_URI con la URL de conexión a MongoDB
+
+
 '''''''''''''''''''''''''''''''''''''
+
 Iniciar el servidor:
 
 npm start
+
 '''''''''''''''''''''''''''''''''''''
+
 Endpoints disponibles
 
 Obtener todas las personas con filtros opcionales
@@ -85,4 +94,5 @@ Eliminar una persona por ID
 
 DELETE /personas/{idPersona}
 ''''''''''''''''''''''''''''''''''''
-Jucy Fung
+
+
